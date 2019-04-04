@@ -50,6 +50,9 @@ export class Article extends ContentItem {
         if (fieldName === 'metadata__og_image') {
           return 'metadataOgImage';
         }
+        if (fieldName === 'image_gallery') {
+          return 'imageGallery';
+        }
         if (fieldName === 'related_articles') {
           return 'relatedArticles';
         }

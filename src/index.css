@@ -6173,3 +6173,30 @@ body {
 .application-content > div:first-child {
   display: block !important;
 }
+
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.image-gallery__item {
+  width: calc(50% - 10px);
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.image-gallery__item:focus {
+  transform: scale(1.2, 1.2);
+  transition: transform 1s ease-in-out;
+  outline: none;
+}
+
+.image-gallery__item:focus img {
+  box-shadow: 0 0 8px #000;
+}
+
+.image-gallery__item img {
+  max-width: 100%;
+}

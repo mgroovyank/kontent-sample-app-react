@@ -6,6 +6,7 @@ import RichTextElement from '../Components/RichTextElement';
 import { dateFormats } from '../Utilities/LanguageCodes';
 import Metadata from '../Components/Metadata';
 import { translate } from 'react-translate';
+import BynderImageGallery from '../Components/BynderImageGallery';
 
 let getState = props => {
   return {
@@ -124,6 +125,7 @@ class Article extends Component {
             </div>
           </div>
           <div className="row">{bodyCopyElement}</div>
+          <BynderImageGallery images={article.imageGallery} />
         </article>
       </div>
     );
