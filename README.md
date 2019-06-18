@@ -1,10 +1,11 @@
-# Kentico Cloud sample React single-page application
-[![Build Status](https://api.travis-ci.org/Kentico/cloud-sample-app-react.svg?branch=master)](https://travis-ci.org/Kentico/cloud-sample-app-react)
-[![Live Demo](https://img.shields.io/badge/live-demo-brightgreen.svg)](http://kentico-cloud-sample-app-react.surge.sh)
+# Kentico Cloud sample React single-page application - Bynder integration
+[![Build Status](https://api.travis-ci.org/Kentico/cloud-sample-app-react.svg?branch=samples/bynder)](https://travis-ci.org/Kentico/cloud-sample-app-react)
+[![Live Demo](https://img.shields.io/badge/live-demo-brightgreen.svg)](http://kentico-cloud-sample-app-react-bynder.surge.sh/en-us/articles/cf106f4e-30a4-42ef-b313-b8ea3fd3e5c5)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
 
 This is a sample website written in JavaScript utilizing the Kentico Cloud Delivery API to manage and retrieve content. You can register your account for free at <https://app.kenticocloud.com>. For a brief walkthrough, read [Running the React sample app](https://developer.kenticocloud.com/v1/docs/running-react-sample-app) on our Developer Hub.
 
+It includes a Bynder integration sample using data from [Bynder image selector](https://github.com/Kentico/cloud-custom-element-sample-bynder).
 
 ## Application setup
 
