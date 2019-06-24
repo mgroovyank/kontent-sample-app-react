@@ -1,6 +1,6 @@
 # Kentico Cloud sample React single-page application - Forms (HubSpot)
 [![Build Status](https://api.travis-ci.com/Kentico/cloud-sample-app-react.svg?branch=samples/hubspot)](https://travis-ci.com/Kentico/cloud-sample-app-react)
-[![Live Demo](https://img.shields.io/badge/live-demo-brightgreen.svg)](https://kentico-cloud-sample-app-react-hubspot.surge.sh)
+[![Live Demo](https://img.shields.io/badge/live-demo-brightgreen.svg)](https://kentico-cloud-sample-app-react-hubspot.surge.sh/en-us/articles/cf106f4e-30a4-42ef-b313-b8ea3fd3e5c5)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-cloud)
 
 This is a sample website written in JavaScript utilizing the Kentico Cloud Delivery API to manage and retrieve content. You can register your account for free at <https://app.kenticocloud.com>. For a brief walkthrough, read [Running the React sample app](https://developer.kenticocloud.com/v1/docs/running-react-sample-app) on our Developer Hub.
